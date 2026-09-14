@@ -1,0 +1,9 @@
+{
+  "name": "mideight",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Eight-bar live middle-eight desk for bedroom producers and AI-music finishers",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
